@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import requests
 
-token = '7649061316:AAGTFzOg28plcZBsaDc6rF0TbNeXr42rU6w'
+token = 'Твой API_КЛЮЧ'
 bot = telebot.TeleBot(token)
 
 WHITELIST = [1795671737, 1398771724, 1234567890, 9876543210]
